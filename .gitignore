@@ -1,0 +1,10 @@
+INPUTS*
+OUTPUTS*
+spm*.ps
+*~
+localdocker.sh
+*.simg
+.DS_Store
+freesurfer_license.txt
+error.log
+spm12_r7487
